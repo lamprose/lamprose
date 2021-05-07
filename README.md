@@ -2,7 +2,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamprose&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![MIUIQuickOpen](https://github-readme-stats.vercel.app/api/pin/?username=lamprose&repo=MIUIQuickOpen)](https://github.com/lamprose/MIUIQuickOpen)
-[![MIUIDock](https://github-readme-stats.vercel.app/api/pin/?username=lamprose&repo=MIUIDock)](https://github.com/lamprose/MIUIDock)
+[![MIUIDock](https://github-readme-stats.vercel.app/api/pin/?username=lamprose&repo=MIDock)](https://github.com/lamprose/MIDock)
 
 ### Hello 👋
 - :orange_book: Focusing on Kotlin & Android
