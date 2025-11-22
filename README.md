@@ -7,9 +7,3 @@
 ### Hello 👋
 - :orange_book: Focusing on Kotlin & Android
 - :meat_on_bone: Meat lover
-- :phone: [![github][github-icon]][github] [![coolapk][coolapk-icon]][coolapk]
-
-[github]: https://www.github.com/lamprose
-[coolapk]:https://www.coolapk.com/u/1033375
-[github-icon]: https://img.shields.io/badge/Github-lamprose-181717?logo=github&style=plastic
-[coolapk-icon]: https://img.shields.io/badge/Coolapk-@离司-red?logo=gmail&style=plastic
